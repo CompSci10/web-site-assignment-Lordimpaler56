@@ -1,3 +1,5 @@
+Logan
+
 # web-site-assignment
 In this assignment you will be creating a multi-site [responsive web site](https://en.wikipedia.org/wiki/Responsive_web_design) hosted on GitHub using the [Bootstrap framework](http://getbootstrap.com/). To get full marks for the various components it is important that you follow the instructions. 
 
